@@ -1,4 +1,10 @@
 ### Hi there 👋
+### 🌱 I’m currently learning java
+
+[![Seung's github stats](https://github-readme-stats.vercel.app/api?username=seunghee-ryu&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues)](https://github.com/seunghee-ryu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghee-ryu&layout=compact)](https://github.com/seunghee-ryu/github-readme-stats)
+
 
 <!--
 **seunghee-ryu/seunghee-ryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
