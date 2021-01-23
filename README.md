@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning java
 
-[![Seung's github stats](https://github-readme-stats.vercel.app/api?username=seunghee-ryu&count_private=true&show_icons=true&theme=vue&hide=prs,issues)](https://github.com/seunghee-ryu/github-readme-stats)
+[![Seung's github stats](https://github-readme-stats.vercel.app/api?username=seunghee-ryu&count_private=true&show_icons=true&theme=defualt&hide=prs,issues)](https://github.com/seunghee-ryu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghee-ryu&layout=compact&theme=vue)](https://github.com/seunghee-ryu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghee-ryu&layout=compact&theme=defualt)](https://github.com/seunghee-ryu/github-readme-stats)
 
 
 <!--
